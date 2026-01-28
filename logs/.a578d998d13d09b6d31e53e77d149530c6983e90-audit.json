@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/Users/tymekkoki/Programowanie/Temp/2/logs/.a578d998d13d09b6d31e53e77d149530c6983e90-audit.json",
+    "files": [
+        {
+            "date": 1769603475415,
+            "name": "/Users/tymekkoki/Programowanie/Temp/2/logs/mcp-puppeteer-2026-01-28.log",
+            "hash": "3606cd507410f399ce832ab0a1b53b0be10665cfe987d7da576b66ca54234260"
+        }
+    ],
+    "hashType": "sha256"
+}
